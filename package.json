@@ -1,0 +1,19 @@
+{
+  "name": "rouxclass",
+  "version": "0.0.1",
+  "description": "The node & express project for my class",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mlakinana/rouxclass.git"
+  },
+  "author": "Manoj Lakinana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlakinana/rouxclass/issues"
+  },
+  "homepage": "https://github.com/mlakinana/rouxclass"
+}
