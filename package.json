@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/mlakinana/rouxclass/issues"
   },
-  "homepage": "https://github.com/mlakinana/rouxclass"
+  "homepage": "https://github.com/mlakinana/rouxclass",
+  "dependencies": {
+    "ejs": "^1.0.0",
+    "express": "^4.2.0"
+  }
 }
